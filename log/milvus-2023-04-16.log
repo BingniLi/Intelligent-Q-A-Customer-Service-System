@@ -1,0 +1,625 @@
+2023-04-16 11:28:04,289 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 11:28:04,289 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 11:28:08,097 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 11:28:08,106 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 11:28:08,117 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 11:29:57,797 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7473440766334534, id: 440757844392283026)', '(distance: 0.7417940497398376, id: 440757844392283069)', '(distance: 0.7392032146453857, id: 440757844392283123)', '(distance: 0.7095335721969604, id: 440757844392283073)', '(distance: 0.6921030282974243, id: 440757844392283062)', '(distance: 0.6905940175056458, id: 440757844392283128)', '(distance: 0.6884349584579468, id: 440757844392283066)', '(distance: 0.6777410507202148, id: 440757844392283071)', '(distance: 0.6678069829940796, id: 440757844392283119)', '(distance: 0.6399017572402954, id: 440757844392283072)']"]
+2023-04-16 11:29:57,799 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-16 11:29:57,800 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 77 ｜ MYSQL search by milvus id.
+2023-04-16 11:31:00,518 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8429099321365356, id: 440757844392283075)', '(distance: 0.796826958656311, id: 440757844392283115)', '(distance: 0.7427993416786194, id: 440757844392283111)', '(distance: 0.7367285490036011, id: 440757844392283096)', '(distance: 0.6924008131027222, id: 440757844392283077)', '(distance: 0.67691570520401, id: 440757844392283093)', '(distance: 0.6661852598190308, id: 440757844392283063)', '(distance: 0.6379438042640686, id: 440757844392283091)', '(distance: 0.6322725415229797, id: 440757844392283028)', '(distance: 0.612025797367096, id: 440757844392283084)']"]
+2023-04-16 11:31:00,520 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-16 11:31:00,521 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 77 ｜ MYSQL search by milvus id.
+2023-04-16 13:18:09,144 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:18:09,144 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:18:12,977 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 13:18:12,986 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 13:18:12,996 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 13:25:26,874 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:25:26,874 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:25:26,875 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:106]
+2023-04-16 13:25:26,875 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:25:26,875 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[108:120]
+2023-04-16 13:25:26,875 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[122:130]
+2023-04-16 13:25:26,875 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:25:26,876 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:25:26,876 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[134:1331]
+2023-04-16 13:25:26,876 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:25:26,877 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:25:26,877 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:25:26,885 ｜ ERROR ｜ load.py ｜ extract_features ｜ 21 ｜  Error with extracting feature from question 'gbk' codec can't decode byte 0xaf in position 38: illegal multibyte sequence
+2023-04-16 13:27:34,721 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:27:34,721 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:27:34,721 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:106]
+2023-04-16 13:27:34,721 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:27:34,722 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[108:120]
+2023-04-16 13:27:34,722 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[122:130]
+2023-04-16 13:27:34,722 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:27:34,722 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:27:34,722 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[134:584]
+2023-04-16 13:27:34,722 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:27:34,723 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:27:34,723 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:27:34,916 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 4 rows
+2023-04-16 13:27:37,967 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 13:27:37,970 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 13:27:37,971 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: not enough arguments for format string with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 13:30:15,540 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:30:15,540 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:30:15,540 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 13:30:15,540 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:30:15,540 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 13:30:15,541 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 13:30:15,541 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:30:15,541 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:30:15,541 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:586]
+2023-04-16 13:30:15,541 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:30:15,542 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:30:15,542 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:30:15,671 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 4 rows
+2023-04-16 13:30:18,724 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 13:30:18,726 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 13:30:18,727 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: not enough arguments for format string with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 13:35:51,996 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:35:51,996 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:35:55,616 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 13:35:55,624 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 13:35:55,634 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 13:36:05,327 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:36:05,327 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:36:05,327 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 13:36:05,327 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:36:05,328 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 13:36:05,328 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 13:36:05,328 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:36:05,328 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:36:05,328 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:586]
+2023-04-16 13:36:05,329 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:36:05,329 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:36:05,329 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:36:05,421 ｜ ERROR ｜ load.py ｜ extract_features ｜ 22 ｜  Error with extracting feature from question name 'pic_path' is not defined
+2023-04-16 13:37:42,985 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:37:42,985 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:37:42,986 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 13:37:42,986 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:37:42,986 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 13:37:42,986 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 13:37:42,986 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:37:42,986 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:37:42,987 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:586]
+2023-04-16 13:37:42,987 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:37:42,987 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:37:42,987 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:37:43,082 ｜ ERROR ｜ load.py ｜ extract_features ｜ 22 ｜  Error with extracting feature from question name 'pic_path' is not defined
+2023-04-16 13:37:57,641 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:37:57,641 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:37:57,641 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 13:37:57,642 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:37:57,642 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 13:37:57,642 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 13:37:57,642 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:37:57,642 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:37:57,642 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:586]
+2023-04-16 13:37:57,643 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:37:57,643 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:37:57,643 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:37:57,746 ｜ ERROR ｜ load.py ｜ extract_features ｜ 22 ｜  Error with extracting feature from question name 'pic_path' is not defined
+2023-04-16 13:38:22,126 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:38:22,126 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:38:25,952 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 13:38:25,960 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 13:38:25,983 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 13:38:35,221 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:38:35,221 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:38:35,221 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 13:38:35,222 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:38:35,222 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 13:38:35,222 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 13:38:35,222 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:38:35,222 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:38:35,222 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:586]
+2023-04-16 13:38:35,223 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:38:35,223 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:38:35,223 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:38:35,339 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 4 rows
+2023-04-16 13:38:38,394 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 13:38:38,396 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 13:38:38,396 ｜ ERROR ｜ main.py ｜ do_load_api ｜ 50 ｜ format_data() takes 3 positional arguments but 4 were given
+2023-04-16 13:44:05,408 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:44:05,408 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:44:09,128 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 13:44:09,135 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 13:44:09,147 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 13:44:19,331 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:44:19,331 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:44:19,331 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 13:44:19,331 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:44:19,332 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 13:44:19,332 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 13:44:19,332 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:44:19,332 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:44:19,332 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:586]
+2023-04-16 13:44:19,333 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:44:19,333 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:44:19,333 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:44:19,477 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 4 rows
+2023-04-16 13:44:23,038 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 13:44:23,039 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 13:44:23,040 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: nan can not be used with MySQL with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 13:48:25,133 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:48:25,134 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:48:28,743 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 13:48:28,751 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 13:48:28,759 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 13:48:39,061 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:48:39,061 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:48:39,061 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 13:48:39,061 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:48:39,062 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 13:48:39,062 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 13:48:39,062 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:48:39,062 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:48:39,063 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:586]
+2023-04-16 13:48:39,063 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:48:39,063 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:48:39,063 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:48:39,214 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 4 rows
+2023-04-16 13:48:42,271 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 13:48:42,272 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 13:48:42,274 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: (1054, "Unknown column 'pic' in 'field list'") with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 13:59:33,561 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:59:33,562 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 13:59:37,042 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 13:59:37,049 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 13:59:37,075 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 13:59:51,247 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 13:59:51,247 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 13:59:51,247 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 13:59:51,247 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:59:51,248 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 13:59:51,248 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 13:59:51,248 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 13:59:51,248 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 13:59:51,249 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:586]
+2023-04-16 13:59:51,249 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 13:59:51,249 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 13:59:51,249 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 13:59:51,425 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 4 rows
+2023-04-16 13:59:54,486 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 13:59:54,488 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 13:59:54,489 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: (1054, "Unknown column 'pic' in 'field list'") with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 14:09:29,584 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:09:29,585 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:09:33,148 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 14:09:33,156 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 14:09:33,165 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 14:09:41,638 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:09:41,639 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:09:41,639 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 14:09:41,639 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:09:41,639 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 14:09:41,639 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 14:09:41,640 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:09:41,640 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:09:41,640 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:2786]
+2023-04-16 14:09:41,640 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:09:41,641 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[2788:2824]
+2023-04-16 14:09:41,701 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:18939]
+2023-04-16 14:09:41,701 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:09:41,701 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:09:41,702 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:09:42,862 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-16 14:09:46,435 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 14:09:46,437 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 14:09:46,438 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: nan can not be used with MySQL with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 14:17:42,432 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:17:42,432 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:17:45,972 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 14:17:45,980 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 14:17:45,990 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 14:17:56,092 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:17:56,092 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:17:56,092 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 14:17:56,093 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:17:56,093 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 14:17:56,093 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 14:17:56,093 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:17:56,093 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:17:56,094 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:12708]
+2023-04-16 14:17:56,148 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:9055]
+2023-04-16 14:17:56,149 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:17:56,149 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:17:56,149 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:17:57,323 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-16 14:18:00,891 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 14:18:00,893 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 14:18:00,906 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: (1054, "Unknown column 'pic' in 'field list'") with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 14:21:36,971 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:21:36,971 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:21:40,586 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 14:21:40,593 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 14:21:40,620 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 14:21:53,660 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:21:53,660 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:21:53,661 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:108]
+2023-04-16 14:21:53,661 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:21:53,661 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-16 14:21:53,661 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-16 14:21:53,661 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:21:53,661 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:21:53,662 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:12708]
+2023-04-16 14:21:53,716 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:9055]
+2023-04-16 14:21:53,717 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:21:53,717 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:21:53,717 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:21:54,974 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-16 14:21:58,020 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 14:21:58,022 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 14:21:58,040 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: (1054, "Unknown column 'pic' in 'field list'") with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 14:37:18,814 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:37:18,814 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:37:22,355 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 14:37:22,364 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 14:37:22,373 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 14:37:29,773 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:37:29,774 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:37:29,774 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:103]
+2023-04-16 14:37:29,774 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:37:29,774 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[105:117]
+2023-04-16 14:37:29,775 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[119:127]
+2023-04-16 14:37:29,775 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:37:29,775 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:37:29,775 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[131:12708]
+2023-04-16 14:37:29,776 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2824]
+2023-04-16 14:37:29,787 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:7060]
+2023-04-16 14:37:29,792 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:9641]
+2023-04-16 14:37:29,792 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:37:29,792 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:37:29,792 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:37:29,799 ｜ ERROR ｜ load.py ｜ extract_features ｜ 23 ｜  Error with extracting feature from question 'gbk' codec can't decode byte 0xaf in position 38: illegal multibyte sequence
+2023-04-16 14:40:27,447 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:40:27,447 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:40:31,253 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 14:40:31,262 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 14:40:31,272 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 14:40:46,578 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:40:46,578 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:40:46,578 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:103]
+2023-04-16 14:40:46,578 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:40:46,579 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[105:117]
+2023-04-16 14:40:46,579 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[119:127]
+2023-04-16 14:40:46,579 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:40:46,579 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:40:46,580 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[131:4236]
+2023-04-16 14:40:46,580 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:5648]
+2023-04-16 14:40:46,582 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:4236]
+2023-04-16 14:40:46,585 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:4236]
+2023-04-16 14:40:46,592 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:4236]
+2023-04-16 14:40:46,595 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2818]
+2023-04-16 14:40:46,595 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:40:46,595 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[2820:2824]
+2023-04-16 14:40:46,598 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:4236]
+2023-04-16 14:40:46,611 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2581]
+2023-04-16 14:40:46,612 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:40:46,612 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:40:46,612 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:40:47,913 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-16 14:40:50,963 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 14:40:50,966 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 14:40:50,976 ｜ ERROR ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 52 ｜ MYSQL ERROR: (1054, "Unknown column 'pic' in 'field list'") with sql: insert into milvus_qa (milvus_id,question,answer,pic) values (%s,%s,%s,%s);
+2023-04-16 14:41:30,502 ｜ DEBUG ｜ milvus_helpers.py ｜ delete_collection ｜ 90 ｜ Successfully drop collection!
+2023-04-16 14:41:30,512 ｜ DEBUG ｜ mysql_helpers.py ｜ delete_table ｜ 120 ｜ MYSQL delete table:milvus_qa
+2023-04-16 14:41:30,512 ｜ INFO ｜ main.py ｜ drop_tables ｜ 108 ｜ Successfully drop tables in Milvus and MySQL!
+2023-04-16 14:41:52,198 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:41:52,198 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:41:52,198 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:103]
+2023-04-16 14:41:52,198 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:41:52,199 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[105:117]
+2023-04-16 14:41:52,199 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[119:127]
+2023-04-16 14:41:52,199 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:41:52,199 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:41:52,199 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[131:15853]
+2023-04-16 14:41:52,212 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:12387]
+2023-04-16 14:41:52,213 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:3993]
+2023-04-16 14:41:52,213 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:41:52,213 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:41:52,214 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:41:53,336 ｜ DEBUG ｜ milvus_helpers.py ｜ create_collection ｜ 48 ｜ Create Milvus collection: <Collection>:
+-------------
+<name>: milvus_qa
+<partitions>: [{"name": "_default", "collection_name": "milvus_qa", "description": ""}]
+<description>: collection description
+<schema>: {
+  auto_id: True
+  description: collection description
+  fields: [{
+    name: id
+    description: 
+    type: 5
+    is_primary: True
+    auto_id: True
+  }, {
+    name: embedding
+    description: 
+    type: 101
+    params: {'dim': 768}
+  }]
+}
+
+2023-04-16 14:41:53,923 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-16 14:41:56,473 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 14:41:56,488 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 14:41:56,512 ｜ DEBUG ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 50 ｜ MYSQL loads data to table: milvus_qa successfully
+2023-04-16 14:41:56,515 ｜ INFO ｜ main.py ｜ do_load_api ｜ 48 ｜ Successfully loaded data, total count: 137
+2023-04-16 14:42:36,906 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.6468102931976318, id: 440757844392284051)', '(distance: 0.6432027816772461, id: 440757844392284044)', '(distance: 0.6334372758865356, id: 440757844392284047)', '(distance: 0.6323930621147156, id: 440757844392284074)', '(distance: 0.6212841272354126, id: 440757844392284098)', '(distance: 0.6207945942878723, id: 440757844392284066)', '(distance: 0.606681227684021, id: 440757844392284059)', '(distance: 0.602530300617218, id: 440757844392283983)', '(distance: 0.6015235185623169, id: 440757844392284041)', '(distance: 0.5963596105575562, id: 440757844392284071)']"]
+2023-04-16 14:42:36,908 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 14:42:36,909 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 14:42:36,909 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 14:42:36,909 ｜ ERROR ｜ main.py ｜ do_get_answer_api ｜ 87 ｜ [Errno 2] No such file or directory: 'as.png'
+2023-04-16 14:47:22,233 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:47:22,233 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:47:25,845 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 14:47:25,854 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 14:47:25,863 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 14:47:45,194 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.6468102931976318, id: 440757844392284051)', '(distance: 0.6432027816772461, id: 440757844392284044)', '(distance: 0.6334372758865356, id: 440757844392284047)', '(distance: 0.6323930621147156, id: 440757844392284074)', '(distance: 0.6212841272354126, id: 440757844392284098)', '(distance: 0.6207945942878723, id: 440757844392284066)', '(distance: 0.606681227684021, id: 440757844392284059)', '(distance: 0.602530300617218, id: 440757844392283983)', '(distance: 0.6015235185623169, id: 440757844392284041)', '(distance: 0.5963596105575562, id: 440757844392284071)']"]
+2023-04-16 14:47:45,198 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 14:47:45,201 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 14:47:45,202 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 14:48:45,064 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7074817419052124, id: 440757844392284045)', '(distance: 0.6077162027359009, id: 440757844392284047)', '(distance: 0.5980855226516724, id: 440757844392284094)', '(distance: 0.5846714377403259, id: 440757844392284082)', '(distance: 0.5671506524085999, id: 440757844392284074)', '(distance: 0.553733766078949, id: 440757844392284043)', '(distance: 0.5444294810295105, id: 440757844392284011)', '(distance: 0.5253404378890991, id: 440757844392284096)', '(distance: 0.5240209102630615, id: 440757844392283972)', '(distance: 0.5198169946670532, id: 440757844392283986)']"]
+2023-04-16 14:48:45,067 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 14:48:45,070 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 14:48:45,071 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 14:51:15,352 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:51:15,352 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:51:18,974 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 14:51:18,981 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 14:51:19,007 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 14:51:27,420 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7074817419052124, id: 440757844392284045)', '(distance: 0.6077162027359009, id: 440757844392284047)', '(distance: 0.5980855226516724, id: 440757844392284094)', '(distance: 0.5846714377403259, id: 440757844392284082)', '(distance: 0.5671506524085999, id: 440757844392284074)', '(distance: 0.553733766078949, id: 440757844392284043)', '(distance: 0.5444294810295105, id: 440757844392284011)', '(distance: 0.5253404378890991, id: 440757844392284096)', '(distance: 0.5240209102630615, id: 440757844392283972)', '(distance: 0.5198169946670532, id: 440757844392283986)']"]
+2023-04-16 14:51:27,423 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 14:51:27,425 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 14:51:27,428 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 14:51:38,836 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7074817419052124, id: 440757844392284045)', '(distance: 0.6077162027359009, id: 440757844392284047)', '(distance: 0.5980855226516724, id: 440757844392284094)', '(distance: 0.5846714377403259, id: 440757844392284082)', '(distance: 0.5671506524085999, id: 440757844392284074)', '(distance: 0.553733766078949, id: 440757844392284043)', '(distance: 0.5444294810295105, id: 440757844392284011)', '(distance: 0.5253404378890991, id: 440757844392284096)', '(distance: 0.5240209102630615, id: 440757844392283972)', '(distance: 0.5198169946670532, id: 440757844392283986)']"]
+2023-04-16 14:51:38,838 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 14:51:38,839 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 14:51:38,840 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 14:51:46,058 ｜ DEBUG ｜ milvus_helpers.py ｜ delete_collection ｜ 90 ｜ Successfully drop collection!
+2023-04-16 14:51:46,067 ｜ DEBUG ｜ mysql_helpers.py ｜ delete_table ｜ 120 ｜ MYSQL delete table:milvus_qa
+2023-04-16 14:51:46,067 ｜ INFO ｜ main.py ｜ drop_tables ｜ 108 ｜ Successfully drop tables in Milvus and MySQL!
+2023-04-16 14:51:53,117 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:51:53,117 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:51:53,117 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:103]
+2023-04-16 14:51:53,117 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:51:53,118 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[105:117]
+2023-04-16 14:51:53,118 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[119:127]
+2023-04-16 14:51:53,118 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:51:53,118 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:51:53,119 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[131:15853]
+2023-04-16 14:51:53,274 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:16418]
+2023-04-16 14:51:53,274 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:51:53,274 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:51:53,274 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:51:53,281 ｜ ERROR ｜ load.py ｜ extract_features ｜ 23 ｜  Error with extracting feature from question 'gbk' codec can't decode byte 0xaf in position 38: illegal multibyte sequence
+2023-04-16 14:52:40,646 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:52:40,646 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 14:52:44,467 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 14:52:44,474 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 14:52:44,498 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 14:52:51,102 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:52:51,103 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:52:51,103 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:103]
+2023-04-16 14:52:51,103 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:52:51,103 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[105:117]
+2023-04-16 14:52:51,104 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[119:127]
+2023-04-16 14:52:51,104 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:52:51,104 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:52:51,104 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[131:15853]
+2023-04-16 14:52:51,871 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:16418]
+2023-04-16 14:52:51,872 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:52:51,872 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:52:51,872 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:52:52,969 ｜ DEBUG ｜ milvus_helpers.py ｜ create_collection ｜ 48 ｜ Create Milvus collection: <Collection>:
+-------------
+<name>: milvus_qa
+<partitions>: [{"name": "_default", "collection_name": "milvus_qa", "description": ""}]
+<description>: collection description
+<schema>: {
+  auto_id: True
+  description: collection description
+  fields: [{
+    name: id
+    description: 
+    type: 5
+    is_primary: True
+    auto_id: True
+  }, {
+    name: embedding
+    description: 
+    type: 101
+    params: {'dim': 768}
+  }]
+}
+
+2023-04-16 14:52:53,555 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-16 14:52:56,608 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 14:52:56,629 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 14:52:56,652 ｜ DEBUG ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 50 ｜ MYSQL loads data to table: milvus_qa successfully
+2023-04-16 14:52:56,655 ｜ INFO ｜ main.py ｜ do_load_api ｜ 48 ｜ Successfully loaded data, total count: 137
+2023-04-16 14:53:06,275 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7074817419052124, id: 440757844392284240)', '(distance: 0.6077162027359009, id: 440757844392284242)', '(distance: 0.5980855226516724, id: 440757844392284289)', '(distance: 0.5846714377403259, id: 440757844392284277)', '(distance: 0.5671506524085999, id: 440757844392284269)', '(distance: 0.553733766078949, id: 440757844392284238)', '(distance: 0.5444294810295105, id: 440757844392284206)', '(distance: 0.5253404378890991, id: 440757844392284291)', '(distance: 0.5240209102630615, id: 440757844392284167)', '(distance: 0.5198169946670532, id: 440757844392284181)']"]
+2023-04-16 14:53:06,278 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 14:53:06,279 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 14:53:06,281 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 14:53:06,281 ｜ ERROR ｜ main.py ｜ do_get_answer_api ｜ 87 ｜ [Errno 2] No such file or directory: 'D:\\桌面\\教育问答系统\\image.png'
+2023-04-16 14:56:34,112 ｜ DEBUG ｜ milvus_helpers.py ｜ delete_collection ｜ 90 ｜ Successfully drop collection!
+2023-04-16 14:56:34,120 ｜ DEBUG ｜ mysql_helpers.py ｜ delete_table ｜ 120 ｜ MYSQL delete table:milvus_qa
+2023-04-16 14:56:34,121 ｜ INFO ｜ main.py ｜ drop_tables ｜ 108 ｜ Successfully drop tables in Milvus and MySQL!
+2023-04-16 14:56:57,262 ｜ INFO ｜ main.py ｜ drop_tables ｜ 108 ｜ Successfully drop tables in Milvus and MySQL!
+2023-04-16 14:57:05,271 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:57:05,272 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:57:05,272 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:103]
+2023-04-16 14:57:05,272 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:57:05,272 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[105:117]
+2023-04-16 14:57:05,272 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[119:127]
+2023-04-16 14:57:05,272 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:57:05,272 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:57:05,273 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[131:2824]
+2023-04-16 14:57:05,283 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2824]
+2023-04-16 14:57:05,299 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:7060]
+2023-04-16 14:57:05,316 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:7060]
+2023-04-16 14:57:05,316 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:7051]
+2023-04-16 14:57:05,317 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:57:05,317 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[7053:7060]
+2023-04-16 14:57:05,332 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:5419]
+2023-04-16 14:57:05,332 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:57:05,332 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:57:05,333 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:57:06,414 ｜ DEBUG ｜ milvus_helpers.py ｜ create_collection ｜ 48 ｜ Create Milvus collection: <Collection>:
+-------------
+<name>: milvus_qa
+<partitions>: [{"name": "_default", "collection_name": "milvus_qa", "description": ""}]
+<description>: collection description
+<schema>: {
+  auto_id: True
+  description: collection description
+  fields: [{
+    name: id
+    description: 
+    type: 5
+    is_primary: True
+    auto_id: True
+  }, {
+    name: embedding
+    description: 
+    type: 101
+    params: {'dim': 768}
+  }]
+}
+
+2023-04-16 14:57:06,992 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-16 14:57:10,043 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 14:57:10,060 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 14:57:10,084 ｜ DEBUG ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 50 ｜ MYSQL loads data to table: milvus_qa successfully
+2023-04-16 14:57:10,087 ｜ INFO ｜ main.py ｜ do_load_api ｜ 48 ｜ Successfully loaded data, total count: 137
+2023-04-16 14:57:39,362 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7074817419052124, id: 440757844392284412)', '(distance: 0.6077162027359009, id: 440757844392284414)', '(distance: 0.5980855226516724, id: 440757844392284461)', '(distance: 0.5846714377403259, id: 440757844392284449)', '(distance: 0.5671506524085999, id: 440757844392284441)', '(distance: 0.553733766078949, id: 440757844392284410)', '(distance: 0.5444294810295105, id: 440757844392284378)', '(distance: 0.5253404378890991, id: 440757844392284463)', '(distance: 0.5240209102630615, id: 440757844392284339)', '(distance: 0.5198169946670532, id: 440757844392284353)']"]
+2023-04-16 14:57:39,364 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 14:57:39,366 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 14:57:39,367 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 14:57:39,368 ｜ ERROR ｜ main.py ｜ do_get_answer_api ｜ 87 ｜ [Errno 2] No such file or directory: '/pic/image.png'
+2023-04-16 14:58:23,567 ｜ DEBUG ｜ milvus_helpers.py ｜ delete_collection ｜ 90 ｜ Successfully drop collection!
+2023-04-16 14:58:23,576 ｜ DEBUG ｜ mysql_helpers.py ｜ delete_table ｜ 120 ｜ MYSQL delete table:milvus_qa
+2023-04-16 14:58:23,576 ｜ INFO ｜ main.py ｜ drop_tables ｜ 108 ｜ Successfully drop tables in Milvus and MySQL!
+2023-04-16 14:58:30,672 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-16 14:58:30,673 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-16 14:58:30,673 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:103]
+2023-04-16 14:58:30,673 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:58:30,673 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[105:117]
+2023-04-16 14:58:30,673 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[119:127]
+2023-04-16 14:58:30,673 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-16 14:58:30,674 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-16 14:58:30,674 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[131:2824]
+2023-04-16 14:58:30,674 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2824]
+2023-04-16 14:58:30,675 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2824]
+2023-04-16 14:58:30,684 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:4236]
+2023-04-16 14:58:30,688 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2824]
+2023-04-16 14:58:30,689 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:4203]
+2023-04-16 14:58:30,689 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:58:30,690 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[4205:4236]
+2023-04-16 14:58:30,692 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:4235]
+2023-04-16 14:58:30,700 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:58:30,700 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[1:2824]
+2023-04-16 14:58:30,704 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:4236]
+2023-04-16 14:58:30,705 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:1243]
+2023-04-16 14:58:30,705 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-16 14:58:30,705 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-16 14:58:30,706 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-16 14:58:31,860 ｜ DEBUG ｜ milvus_helpers.py ｜ create_collection ｜ 48 ｜ Create Milvus collection: <Collection>:
+-------------
+<name>: milvus_qa
+<partitions>: [{"name": "_default", "collection_name": "milvus_qa", "description": ""}]
+<description>: collection description
+<schema>: {
+  auto_id: True
+  description: collection description
+  fields: [{
+    name: id
+    description: 
+    type: 5
+    is_primary: True
+    auto_id: True
+  }, {
+    name: embedding
+    description: 
+    type: 101
+    params: {'dim': 768}
+  }]
+}
+
+2023-04-16 14:58:32,435 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-16 14:58:34,985 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-16 14:58:35,001 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 36 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT, pic TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-16 14:58:35,024 ｜ DEBUG ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 50 ｜ MYSQL loads data to table: milvus_qa successfully
+2023-04-16 14:58:35,027 ｜ INFO ｜ main.py ｜ do_load_api ｜ 48 ｜ Successfully loaded data, total count: 137
+2023-04-16 14:58:56,672 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.742767333984375, id: 440757844392284583)', '(distance: 0.6255993843078613, id: 440757844392284585)', '(distance: 0.6159517765045166, id: 440757844392284612)', '(distance: 0.5972433090209961, id: 440757844392284632)', '(distance: 0.5794079303741455, id: 440757844392284549)', '(distance: 0.5760107040405273, id: 440757844392284581)', '(distance: 0.5686938762664795, id: 440757844392284620)', '(distance: 0.5354926586151123, id: 440757844392284633)', '(distance: 0.5292507410049438, id: 440757844392284637)', '(distance: 0.5231468677520752, id: 440757844392284524)']"]
+2023-04-16 14:58:56,675 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 14:58:56,677 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 14:58:56,679 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:04:34,972 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:04:34,972 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:04:38,616 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 15:04:38,624 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 15:04:38,633 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 15:04:42,127 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.742767333984375, id: 440757844392284583)', '(distance: 0.6255993843078613, id: 440757844392284585)', '(distance: 0.6159517765045166, id: 440757844392284612)', '(distance: 0.5972433090209961, id: 440757844392284632)', '(distance: 0.5794079303741455, id: 440757844392284549)', '(distance: 0.5760107040405273, id: 440757844392284581)', '(distance: 0.5686938762664795, id: 440757844392284620)', '(distance: 0.5354926586151123, id: 440757844392284633)', '(distance: 0.5292507410049438, id: 440757844392284637)', '(distance: 0.5231468677520752, id: 440757844392284524)']"]
+2023-04-16 15:04:42,129 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:04:42,132 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:04:42,134 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:06:16,654 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:06:16,654 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:06:20,233 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 15:06:20,241 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 15:06:20,268 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 15:06:22,608 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.742767333984375, id: 440757844392284583)', '(distance: 0.6255993843078613, id: 440757844392284585)', '(distance: 0.6159517765045166, id: 440757844392284612)', '(distance: 0.5972433090209961, id: 440757844392284632)', '(distance: 0.5794079303741455, id: 440757844392284549)', '(distance: 0.5760107040405273, id: 440757844392284581)', '(distance: 0.5686938762664795, id: 440757844392284620)', '(distance: 0.5354926586151123, id: 440757844392284633)', '(distance: 0.5292507410049438, id: 440757844392284637)', '(distance: 0.5231468677520752, id: 440757844392284524)']"]
+2023-04-16 15:06:22,612 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:06:22,614 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:06:22,616 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:33:54,996 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5727041959762573, id: 440757844392284600)', '(distance: 0.5633988976478577, id: 440757844392284609)', '(distance: 0.5195767283439636, id: 440757844392284589)', '(distance: 0.51640385389328, id: 440757844392284517)', '(distance: 0.516263484954834, id: 440757844392284577)', '(distance: 0.4747360348701477, id: 440757844392284513)', '(distance: 0.47432729601860046, id: 440757844392284587)', '(distance: 0.4705670475959778, id: 440757844392284583)', '(distance: 0.4679887294769287, id: 440757844392284605)', '(distance: 0.4673612117767334, id: 440757844392284535)']"]
+2023-04-16 15:33:55,000 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:33:55,002 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:33:55,004 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:34:19,087 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.742767333984375, id: 440757844392284583)', '(distance: 0.6255993843078613, id: 440757844392284585)', '(distance: 0.6159517765045166, id: 440757844392284612)', '(distance: 0.5972433090209961, id: 440757844392284632)', '(distance: 0.5794079303741455, id: 440757844392284549)', '(distance: 0.5760107040405273, id: 440757844392284581)', '(distance: 0.5686938762664795, id: 440757844392284620)', '(distance: 0.5354926586151123, id: 440757844392284633)', '(distance: 0.5292507410049438, id: 440757844392284637)', '(distance: 0.5231468677520752, id: 440757844392284524)']"]
+2023-04-16 15:34:19,090 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:34:19,093 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:34:19,094 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:39:59,394 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:39:59,394 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:40:02,970 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 15:40:02,978 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 15:40:03,003 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 15:40:11,991 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.742767333984375, id: 440757844392284583)', '(distance: 0.6255993843078613, id: 440757844392284585)', '(distance: 0.6159517765045166, id: 440757844392284612)', '(distance: 0.5972433090209961, id: 440757844392284632)', '(distance: 0.5794079303741455, id: 440757844392284549)', '(distance: 0.5760107040405273, id: 440757844392284581)', '(distance: 0.5686938762664795, id: 440757844392284620)', '(distance: 0.5354926586151123, id: 440757844392284633)', '(distance: 0.5292507410049438, id: 440757844392284637)', '(distance: 0.5231468677520752, id: 440757844392284524)']"]
+2023-04-16 15:40:11,994 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:40:11,996 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:40:11,998 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:40:11,999 ｜ ERROR ｜ main.py ｜ do_get_answer_api ｜ 88 ｜ 'bool' object has no attribute 'encode'
+2023-04-16 15:45:21,835 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:45:21,835 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:45:25,628 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 15:45:25,637 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 15:45:25,659 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 15:45:58,802 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7430423498153687, id: 440757844392284517)', '(distance: 0.7407952547073364, id: 440757844392284600)', '(distance: 0.6334577798843384, id: 440757844392284583)', '(distance: 0.5900622606277466, id: 440757844392284527)', '(distance: 0.5444420576095581, id: 440757844392284609)', '(distance: 0.5290478467941284, id: 440757844392284589)', '(distance: 0.4691716432571411, id: 440757844392284522)', '(distance: 0.4629040062427521, id: 440757844392284606)', '(distance: 0.4500545263290405, id: 440757844392284605)', '(distance: 0.44857096672058105, id: 440757844392284566)']"]
+2023-04-16 15:45:58,805 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:45:58,807 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:45:58,809 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:46:25,942 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8175759315490723, id: 440757844392284583)', '(distance: 0.6292399764060974, id: 440757844392284600)', '(distance: 0.621269941329956, id: 440757844392284527)', '(distance: 0.5989124774932861, id: 440757844392284517)', '(distance: 0.549984872341156, id: 440757844392284522)', '(distance: 0.5007450580596924, id: 440757844392284526)', '(distance: 0.4950411915779114, id: 440757844392284615)', '(distance: 0.49074578285217285, id: 440757844392284609)', '(distance: 0.4805610179901123, id: 440757844392284528)', '(distance: 0.4800136685371399, id: 440757844392284589)']"]
+2023-04-16 15:46:25,945 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:46:25,948 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:46:25,950 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:46:45,218 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8175759315490723, id: 440757844392284583)', '(distance: 0.6292399764060974, id: 440757844392284600)', '(distance: 0.621269941329956, id: 440757844392284527)', '(distance: 0.5989124774932861, id: 440757844392284517)', '(distance: 0.549984872341156, id: 440757844392284522)', '(distance: 0.5007450580596924, id: 440757844392284526)', '(distance: 0.4950411915779114, id: 440757844392284615)', '(distance: 0.49074578285217285, id: 440757844392284609)', '(distance: 0.4805610179901123, id: 440757844392284528)', '(distance: 0.4800136685371399, id: 440757844392284589)']"]
+2023-04-16 15:46:45,222 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:46:45,224 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:46:45,226 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.
+2023-04-16 15:51:20,293 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:51:20,294 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-16 15:51:23,902 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-16 15:51:23,910 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-16 15:51:23,933 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-16 15:51:58,353 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7878422737121582, id: 440757844392284583)', '(distance: 0.6563274264335632, id: 440757844392284600)', '(distance: 0.6333680152893066, id: 440757844392284517)', '(distance: 0.6332465410232544, id: 440757844392284527)', '(distance: 0.5557944774627686, id: 440757844392284522)', '(distance: 0.5057600736618042, id: 440757844392284609)', '(distance: 0.5047747492790222, id: 440757844392284615)', '(distance: 0.5002467632293701, id: 440757844392284589)', '(distance: 0.48167040944099426, id: 440757844392284526)', '(distance: 0.46050500869750977, id: 440757844392284524)']"]
+2023-04-16 15:51:58,356 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_answer ｜ 64 ｜ MYSQL search by milvus id.
+2023-04-16 15:51:58,358 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 94 ｜ MYSQL search by milvus id.
+2023-04-16 15:51:58,360 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_id_for_pic ｜ 79 ｜ MYSQL search by milvus id.

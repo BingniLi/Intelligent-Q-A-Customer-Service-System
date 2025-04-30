@@ -1,0 +1,32 @@
+2023-04-02 16:19:25,349 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 16:19:26,688 ｜ DEBUG ｜ connectionpool.py ｜ _new_conn ｜ 1003 ｜ Starting new HTTPS connection (1): public.ukp.informatik.tu-darmstadt.de:443
+2023-04-02 16:19:28,064 ｜ DEBUG ｜ connectionpool.py ｜ _make_request ｜ 456 ｜ https://public.ukp.informatik.tu-darmstadt.de:443 "GET /reimers/sentence-transformers/v0.2/paraphrase-multilingual-mpnet-base-v2.zip HTTP/1.1" 200 1015857529
+2023-04-02 16:23:05,891 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 16:23:06,920 ｜ DEBUG ｜ connectionpool.py ｜ _new_conn ｜ 1003 ｜ Starting new HTTPS connection (1): public.ukp.informatik.tu-darmstadt.de:443
+2023-04-02 16:23:08,153 ｜ DEBUG ｜ connectionpool.py ｜ _make_request ｜ 456 ｜ https://public.ukp.informatik.tu-darmstadt.de:443 "GET /reimers/sentence-transformers/v0.2/paraphrase-multilingual-mpnet-base-v2.zip HTTP/1.1" 200 1015857529
+2023-04-02 16:24:08,745 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 16:24:09,844 ｜ DEBUG ｜ connectionpool.py ｜ _new_conn ｜ 1003 ｜ Starting new HTTPS connection (1): public.ukp.informatik.tu-darmstadt.de:443
+2023-04-02 16:24:12,257 ｜ DEBUG ｜ connectionpool.py ｜ _make_request ｜ 456 ｜ https://public.ukp.informatik.tu-darmstadt.de:443 "GET /reimers/sentence-transformers/v0.2/paraphrase-multilingual-mpnet-base-v2.zip HTTP/1.1" 200 1015857529
+2023-04-02 16:30:53,238 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 16:30:54,220 ｜ DEBUG ｜ connectionpool.py ｜ _new_conn ｜ 1003 ｜ Starting new HTTPS connection (1): public.ukp.informatik.tu-darmstadt.de:443
+2023-04-02 16:30:55,609 ｜ DEBUG ｜ connectionpool.py ｜ _make_request ｜ 456 ｜ https://public.ukp.informatik.tu-darmstadt.de:443 "GET /reimers/sentence-transformers/v0.2/paraphrase-multilingual-mpnet-base-v2.zip HTTP/1.1" 200 1015857529
+2023-04-02 16:34:42,636 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 16:34:43,761 ｜ DEBUG ｜ connectionpool.py ｜ _new_conn ｜ 1003 ｜ Starting new HTTPS connection (1): public.ukp.informatik.tu-darmstadt.de:443
+2023-04-02 16:34:45,135 ｜ DEBUG ｜ connectionpool.py ｜ _make_request ｜ 456 ｜ https://public.ukp.informatik.tu-darmstadt.de:443 "GET /reimers/sentence-transformers/v0.2/paraphrase-multilingual-mpnet-base-v2.zip HTTP/1.1" 200 1015857529
+2023-04-02 16:36:21,969 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 16:50:44,126 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 16:50:45,113 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: media/dell/home/question-answering/quick_deploy/src/paraphrase-multilingual-mpnet-base-v2
+2023-04-02 16:50:45,113 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: media/dell/home/question-answering/quick_deploy/src/paraphrase-multilingual-mpnet-base-v2
+2023-04-02 16:58:07,413 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 16:58:08,421 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-02 16:58:08,421 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-02 17:11:06,710 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 17:11:07,740 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-02 17:11:07,740 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-02 17:12:12,832 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-02 17:12:13,923 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-02 17:12:13,923 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-02 17:12:14,353 ｜ DEBUG ｜ cmd.py ｜ execute ｜ 870 ｜ Popen(['git', 'version'], cwd=/media/dell/home/question-answering/quick_deploy/server/src, universal_newlines=False, shell=None, istream=None)
+2023-04-02 17:12:14,390 ｜ DEBUG ｜ cmd.py ｜ execute ｜ 870 ｜ Popen(['git', 'version'], cwd=/media/dell/home/question-answering/quick_deploy/server/src, universal_newlines=False, shell=None, istream=None)
+2023-04-02 17:12:18,592 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cuda
+2023-04-02 17:12:18,600 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530

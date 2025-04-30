@@ -1,0 +1,420 @@
+2023-04-06 00:10:44,238 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:10:44,238 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:10:48,078 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 00:10:48,086 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 00:10:48,106 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 00:13:46,029 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:13:46,029 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:13:49,907 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 00:13:49,915 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 00:15:05,728 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:15:05,728 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:15:09,587 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 00:15:09,594 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 00:15:09,602 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 00:16:05,612 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:16:05,612 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:16:09,573 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 00:16:09,580 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 00:16:09,586 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 00:20:09,337 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:20:09,337 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:20:13,162 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 00:20:13,169 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 00:20:13,177 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 00:22:40,758 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:22:40,759 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:22:44,601 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 00:22:44,609 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 00:22:44,628 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 00:26:02,051 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:26:02,051 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 00:26:05,894 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 00:26:05,902 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 00:26:05,910 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 09:31:54,677 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-06 09:31:55,601 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 09:31:55,601 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 09:31:55,922 ｜ DEBUG ｜ cmd.py ｜ execute ｜ 870 ｜ Popen(['git', 'version'], cwd=/media/dell/home/question-answering/quick_deploy/server/src, universal_newlines=False, shell=None, istream=None)
+2023-04-06 09:31:55,958 ｜ DEBUG ｜ cmd.py ｜ execute ｜ 870 ｜ Popen(['git', 'version'], cwd=/media/dell/home/question-answering/quick_deploy/server/src, universal_newlines=False, shell=None, istream=None)
+2023-04-06 09:32:41,246 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 09:32:41,247 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 09:32:44,990 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 09:32:44,997 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 09:32:45,015 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 09:43:24,554 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 09:43:24,554 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 09:43:28,399 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 09:43:28,409 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 09:43:28,430 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 09:44:22,490 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 09:44:22,490 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 09:44:26,255 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 09:44:26,263 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 09:44:26,283 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 10:46:18,297 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 10:46:18,298 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 10:46:22,150 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 10:46:22,157 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 10:46:22,164 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 10:53:56,084 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 10:53:56,085 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 10:53:59,932 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 10:53:59,941 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 10:53:59,960 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 11:01:33,093 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:01:33,093 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:01:36,900 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:01:36,907 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 11:01:36,928 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 11:06:27,672 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:06:27,672 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:06:31,659 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:06:31,666 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 11:11:03,026 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:11:03,026 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:11:06,823 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:11:06,831 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 11:11:06,848 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 11:12:49,373 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:12:49,373 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:12:53,239 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:12:53,246 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 11:12:53,254 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 11:16:35,203 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:16:35,204 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:16:38,996 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:16:39,004 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 11:16:39,021 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 11:23:55,830 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:23:55,830 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:23:59,640 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:24:02,646 ｜ ERROR ｜ milvus_helpers.py ｜ __init__ ｜ 17 ｜ Failed to connect Milvus: <BaseException: (code=2, message=Fail connecting to server on 127.0.0.1:19530. Timeout)>
+2023-04-06 11:25:31,033 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:25:31,033 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:25:34,812 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:25:37,818 ｜ ERROR ｜ milvus_helpers.py ｜ __init__ ｜ 17 ｜ Failed to connect Milvus: <BaseException: (code=2, message=Fail connecting to server on 127.0.0.1:19530. Timeout)>
+2023-04-06 11:27:45,608 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:27:45,608 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:27:49,463 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:27:52,470 ｜ ERROR ｜ milvus_helpers.py ｜ __init__ ｜ 17 ｜ Failed to connect Milvus: <BaseException: (code=2, message=Fail connecting to server on 127.0.0.1:19530. Timeout)>
+2023-04-06 11:28:26,462 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:28:26,462 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:28:30,354 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:28:33,362 ｜ ERROR ｜ milvus_helpers.py ｜ __init__ ｜ 17 ｜ Failed to connect Milvus: <BaseException: (code=2, message=Fail connecting to server on 127.0.0.1:19530. Timeout)>
+2023-04-06 11:31:09,124 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:31:09,124 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:31:12,953 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:31:15,961 ｜ ERROR ｜ milvus_helpers.py ｜ __init__ ｜ 17 ｜ Failed to connect Milvus: <BaseException: (code=2, message=Fail connecting to server on 127.0.0.1:19530. Timeout)>
+2023-04-06 11:45:43,060 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:45:43,061 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:45:46,933 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:45:46,942 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 11:45:46,952 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 11:47:35,315 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:47:35,315 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 11:47:39,113 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 11:47:39,121 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 11:47:39,128 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 12:16:15,720 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 12:16:15,720 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 12:16:19,559 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 12:16:19,566 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 12:16:19,575 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 12:22:24,971 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 12:22:24,971 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 12:22:28,818 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 12:22:28,829 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 12:22:28,841 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 12:39:04,511 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 12:39:04,511 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 12:39:08,349 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 12:39:08,358 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 12:39:08,379 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 14:16:03,688 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 14:16:03,689 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 14:16:07,823 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 14:16:07,836 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 14:16:07,864 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 14:56:27,897 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 14:56:27,897 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 14:56:31,975 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 14:56:31,982 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 14:59:35,156 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 14:59:35,156 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 14:59:39,064 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 14:59:39,071 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 14:59:39,079 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 16:22:16,032 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 16:22:16,033 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 16:22:19,898 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 16:22:19,906 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 16:22:19,915 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 16:54:33,084 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 16:54:33,084 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 16:54:37,149 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 16:54:37,160 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 16:54:37,185 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 17:29:09,941 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 17:29:09,941 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 17:29:14,260 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 17:29:14,270 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 17:29:14,290 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 17:30:38,819 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 17:30:38,819 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 17:30:42,782 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 17:30:42,789 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 17:30:42,809 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 17:31:23,558 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 17:31:23,558 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 17:31:23,558 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:117]
+2023-04-06 17:31:23,558 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:31:23,559 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[119:131]
+2023-04-06 17:31:23,559 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[133:141]
+2023-04-06 17:31:23,559 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:31:23,559 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 17:31:23,559 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[145:53775]
+2023-04-06 17:31:23,559 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 17:31:23,559 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 17:31:23,559 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 17:31:23,565 ｜ ERROR ｜ load.py ｜ extract_features ｜ 20 ｜  Error with extracting feature from question 'gbk' codec can't decode byte 0xac in position 24: illegal multibyte sequence
+2023-04-06 17:31:42,958 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 17:31:42,958 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 17:31:42,959 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:117]
+2023-04-06 17:31:42,959 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:31:42,959 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[119:131]
+2023-04-06 17:31:42,959 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[133:141]
+2023-04-06 17:31:42,959 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:31:42,959 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 17:31:42,960 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[145:53775]
+2023-04-06 17:31:42,960 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 17:31:42,961 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 17:31:42,961 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 17:31:42,963 ｜ ERROR ｜ load.py ｜ extract_features ｜ 20 ｜  Error with extracting feature from question 'gbk' codec can't decode byte 0xac in position 24: illegal multibyte sequence
+2023-04-06 17:31:46,650 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 17:31:46,650 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 17:31:46,651 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:117]
+2023-04-06 17:31:46,651 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:31:46,651 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[119:131]
+2023-04-06 17:31:46,651 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[133:141]
+2023-04-06 17:31:46,651 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:31:46,651 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 17:31:46,652 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[145:53775]
+2023-04-06 17:31:46,652 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 17:31:46,653 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 17:31:46,653 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 17:31:46,655 ｜ ERROR ｜ load.py ｜ extract_features ｜ 20 ｜  Error with extracting feature from question 'gbk' codec can't decode byte 0xac in position 24: illegal multibyte sequence
+2023-04-06 17:32:16,907 ｜ ERROR ｜ mysql_helpers.py ｜ search_by_question ｜ 79 ｜ MYSQL ERROR: (1146, "Table 'mysql.milvus_qa' doesn't exist") with sql: select answer from milvus_qa where question = '教师注册失败';
+2023-04-06 17:39:15,100 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 17:39:15,100 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 17:39:15,100 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:106]
+2023-04-06 17:39:15,101 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:39:15,101 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[108:120]
+2023-04-06 17:39:15,101 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[122:130]
+2023-04-06 17:39:15,101 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:39:15,101 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 17:39:15,102 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[134:1103]
+2023-04-06 17:39:15,102 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 17:39:15,102 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 17:39:15,102 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 17:39:15,251 ｜ DEBUG ｜ milvus_helpers.py ｜ create_collection ｜ 48 ｜ Create Milvus collection: <Collection>:
+-------------
+<name>: milvus_qa
+<partitions>: [{"name": "_default", "collection_name": "milvus_qa", "description": ""}]
+<description>: collection description
+<schema>: {
+  auto_id: True
+  description: collection description
+  fields: [{
+    name: id
+    description: 
+    type: 5
+    is_primary: True
+    auto_id: True
+  }, {
+    name: embedding
+    description: 
+    type: 101
+    params: {'dim': 768}
+  }]
+}
+
+2023-04-06 17:39:15,273 ｜ ERROR ｜ decorators.py ｜ handler ｜ 73 ｜ RPC error: [load_collection], <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>, <Time:{'RPC start': '2023-04-06 17:39:15.271679', 'RPC error': '2023-04-06 17:39:15.273187'}>
+2023-04-06 17:39:15,273 ｜ ERROR ｜ milvus_helpers.py ｜ insert ｜ 66 ｜ Failed to insert data into Milvus: <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>
+2023-04-06 17:39:50,912 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 17:39:50,912 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 17:39:55,102 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 17:39:55,113 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 17:39:55,125 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 17:40:46,306 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 17:40:46,306 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 17:40:46,306 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:106]
+2023-04-06 17:40:46,307 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:40:46,307 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[108:120]
+2023-04-06 17:40:46,307 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[122:130]
+2023-04-06 17:40:46,307 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:40:46,307 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 17:40:46,308 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[134:1103]
+2023-04-06 17:40:46,308 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 17:40:46,308 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 17:40:46,308 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 17:40:46,618 ｜ ERROR ｜ decorators.py ｜ handler ｜ 73 ｜ RPC error: [load_collection], <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>, <Time:{'RPC start': '2023-04-06 17:40:46.616884', 'RPC error': '2023-04-06 17:40:46.618206'}>
+2023-04-06 17:40:46,618 ｜ ERROR ｜ milvus_helpers.py ｜ insert ｜ 66 ｜ Failed to insert data into Milvus: <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>
+2023-04-06 17:47:33,108 ｜ ERROR ｜ mysql_helpers.py ｜ search_by_question ｜ 79 ｜ MYSQL ERROR: (1146, "Table 'mysql.milvus_qa' doesn't exist") with sql: select answer from milvus_qa where question = '教师注册失败';
+2023-04-06 17:48:17,205 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 17:48:17,206 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 17:48:17,206 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:106]
+2023-04-06 17:48:17,206 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:48:17,207 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[108:120]
+2023-04-06 17:48:17,207 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[122:130]
+2023-04-06 17:48:17,207 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 17:48:17,207 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 17:48:17,207 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[134:1092]
+2023-04-06 17:48:17,207 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 17:48:17,208 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 17:48:17,208 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 17:48:17,410 ｜ ERROR ｜ decorators.py ｜ handler ｜ 73 ｜ RPC error: [load_collection], <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>, <Time:{'RPC start': '2023-04-06 17:48:17.409407', 'RPC error': '2023-04-06 17:48:17.410521'}>
+2023-04-06 17:48:17,410 ｜ ERROR ｜ milvus_helpers.py ｜ insert ｜ 66 ｜ Failed to insert data into Milvus: <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>
+2023-04-06 18:00:20,465 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 18:00:20,466 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 18:00:20,466 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:114]
+2023-04-06 18:00:20,466 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:00:20,467 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[116:128]
+2023-04-06 18:00:20,467 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[130:138]
+2023-04-06 18:00:20,467 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:00:20,467 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 18:00:20,468 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[142:54309]
+2023-04-06 18:00:20,468 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 18:00:20,468 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 18:00:20,468 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 18:00:20,472 ｜ ERROR ｜ load.py ｜ extract_features ｜ 20 ｜  Error with extracting feature from question 'gbk' codec can't decode byte 0xac in position 29: illegal multibyte sequence
+2023-04-06 18:02:44,725 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 18:02:44,726 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 18:02:44,726 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:114]
+2023-04-06 18:02:44,726 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:02:44,726 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[116:128]
+2023-04-06 18:02:44,727 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[130:138]
+2023-04-06 18:02:44,727 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:02:44,727 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 18:02:44,728 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[142:49152]
+2023-04-06 18:02:44,728 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:5157]
+2023-04-06 18:02:44,728 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 18:02:44,729 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 18:02:44,729 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 18:02:44,731 ｜ ERROR ｜ load.py ｜ extract_features ｜ 20 ｜  Error with extracting feature from question 'gbk' codec can't decode byte 0xac in position 29: illegal multibyte sequence
+2023-04-06 18:03:27,556 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 18:03:27,556 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 18:03:31,490 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 18:03:31,497 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 18:03:31,520 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 18:03:53,289 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:114]
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[116:128]
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[130:138]
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[142:54309]
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 18:03:53,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 18:03:54,820 ｜ ERROR ｜ decorators.py ｜ handler ｜ 73 ｜ RPC error: [load_collection], <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>, <Time:{'RPC start': '2023-04-06 18:03:54.818834', 'RPC error': '2023-04-06 18:03:54.820411'}>
+2023-04-06 18:03:54,820 ｜ ERROR ｜ milvus_helpers.py ｜ insert ｜ 66 ｜ Failed to insert data into Milvus: <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>
+2023-04-06 18:14:44,192 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 18:14:44,193 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 18:14:44,193 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:106]
+2023-04-06 18:14:44,193 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:14:44,194 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[108:120]
+2023-04-06 18:14:44,194 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[122:130]
+2023-04-06 18:14:44,194 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:14:44,194 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 18:14:44,194 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[134:1092]
+2023-04-06 18:14:44,195 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 18:14:44,195 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 18:14:44,195 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 18:14:44,199 ｜ ERROR ｜ load.py ｜ extract_features ｜ 20 ｜  Error with extracting feature from question 'utf-8' codec can't decode byte 0xb3 in position 17: invalid start byte
+2023-04-06 18:15:10,844 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 18:15:10,844 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 18:15:10,844 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:114]
+2023-04-06 18:15:10,844 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:15:10,844 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[116:128]
+2023-04-06 18:15:10,845 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[130:138]
+2023-04-06 18:15:10,845 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:15:10,845 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 18:15:10,846 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[142:32768]
+2023-04-06 18:15:10,847 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:21541]
+2023-04-06 18:15:10,847 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 18:15:10,847 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 18:15:10,847 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 18:15:12,428 ｜ ERROR ｜ decorators.py ｜ handler ｜ 73 ｜ RPC error: [load_collection], <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>, <Time:{'RPC start': '2023-04-06 18:15:12.426799', 'RPC error': '2023-04-06 18:15:12.427983'}>
+2023-04-06 18:15:12,428 ｜ ERROR ｜ milvus_helpers.py ｜ insert ｜ 66 ｜ Failed to insert data into Milvus: <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>
+2023-04-06 18:42:23,549 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 18:42:23,550 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 18:42:27,350 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 18:42:27,356 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 18:42:27,372 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 18:43:08,264 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 18:43:08,265 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[42:61]
+2023-04-06 18:43:08,265 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[63:114]
+2023-04-06 18:43:08,265 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:43:08,265 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[116:128]
+2023-04-06 18:43:08,265 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[130:138]
+2023-04-06 18:43:08,265 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 18:43:08,265 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 18:43:08,266 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[142:54309]
+2023-04-06 18:43:08,266 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 18:43:08,267 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 18:43:08,267 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 18:43:09,695 ｜ DEBUG ｜ milvus_helpers.py ｜ create_collection ｜ 48 ｜ Create Milvus collection: <Collection>:
+-------------
+<name>: QA
+<partitions>: [{"name": "_default", "collection_name": "QA", "description": ""}]
+<description>: collection description
+<schema>: {
+  auto_id: True
+  description: collection description
+  fields: [{
+    name: id
+    description: 
+    type: 5
+    is_primary: True
+    auto_id: True
+  }, {
+    name: embedding
+    description: 
+    type: 101
+    params: {'dim': 768}
+  }]
+}
+
+2023-04-06 18:43:09,774 ｜ ERROR ｜ decorators.py ｜ handler ｜ 73 ｜ RPC error: [load_collection], <BaseException: (code=1, message=index doesn't exist, collectionID 440599058970117624)>, <Time:{'RPC start': '2023-04-06 18:43:09.772123', 'RPC error': '2023-04-06 18:43:09.774133'}>
+2023-04-06 18:43:09,774 ｜ ERROR ｜ milvus_helpers.py ｜ insert ｜ 66 ｜ Failed to insert data into Milvus: <BaseException: (code=1, message=index doesn't exist, collectionID 440599058970117624)>
+2023-04-06 21:26:55,486 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 21:26:55,487 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 21:26:59,666 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 21:26:59,673 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 21:30:24,737 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 21:30:24,737 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 21:30:28,820 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 21:30:28,826 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 21:30:28,859 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-06 21:30:28,863 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-06 21:30:28,863 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[36:55]
+2023-04-06 21:30:28,863 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[57:108]
+2023-04-06 21:30:28,863 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 21:30:28,864 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[110:122]
+2023-04-06 21:30:28,864 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[124:132]
+2023-04-06 21:30:28,864 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-06 21:30:28,864 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-06 21:30:28,865 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[136:54303]
+2023-04-06 21:30:28,865 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-06 21:30:28,865 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-06 21:30:28,865 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-06 21:30:30,290 ｜ ERROR ｜ decorators.py ｜ handler ｜ 73 ｜ RPC error: [load_collection], <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>, <Time:{'RPC start': '2023-04-06 21:30:30.287204', 'RPC error': '2023-04-06 21:30:30.289685'}>
+2023-04-06 21:30:30,291 ｜ ERROR ｜ milvus_helpers.py ｜ insert ｜ 66 ｜ Failed to insert data into Milvus: <BaseException: (code=1, message=index doesn't exist, collectionID 440599058969898313)>
+2023-04-06 22:46:30,700 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 22:46:30,700 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: paraphrase-multilingual-mpnet-base-v2
+2023-04-06 22:46:34,838 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-06 22:46:34,846 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-06 22:46:34,854 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector

@@ -1,0 +1,16 @@
+2023-04-12 12:00:45,429 ｜ DEBUG ｜ tpu_cluster_resolver.py ｜ <module> ｜ 32 ｜ Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-12 12:00:48,110 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-12 12:00:48,110 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-12 12:00:48,778 ｜ DEBUG ｜ cmd.py ｜ execute ｜ 870 ｜ Popen(['git', 'version'], cwd=/media/dell/home/question-answering/quick_deploy/server/src, universal_newlines=False, shell=None, istream=None)
+2023-04-12 12:00:48,810 ｜ DEBUG ｜ cmd.py ｜ execute ｜ 870 ｜ Popen(['git', 'version'], cwd=/media/dell/home/question-answering/quick_deploy/server/src, universal_newlines=False, shell=None, istream=None)
+2023-04-12 12:00:57,915 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cuda
+2023-04-12 12:01:00,946 ｜ ERROR ｜ milvus_helpers.py ｜ __init__ ｜ 17 ｜ Failed to connect Milvus: <BaseException: (code=2, message=Fail connecting to server on 127.0.0.1:19530. Timeout)>
+2023-04-12 12:01:22,188 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-12 12:01:22,188 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-12 12:01:26,212 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-12 12:01:29,237 ｜ ERROR ｜ milvus_helpers.py ｜ __init__ ｜ 17 ｜ Failed to connect Milvus: <BaseException: (code=2, message=Fail connecting to server on 127.0.0.1:19530. Timeout)>
+2023-04-12 12:23:06,708 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-12 12:23:06,709 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-12 12:23:10,393 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-12 12:23:10,399 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-12 12:23:10,405 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector

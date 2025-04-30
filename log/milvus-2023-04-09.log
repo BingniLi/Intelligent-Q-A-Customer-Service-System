@@ -1,0 +1,356 @@
+2023-04-09 00:02:36,025 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:02:36,025 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:02:39,901 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:02:39,910 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:02:39,920 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:02:54,761 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.3229910135269165, id: 440653167998010847)']"]
+2023-04-09 00:02:54,763 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:02:54,765 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:03:50,001 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:03:50,001 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:03:53,879 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:03:53,888 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:03:53,906 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:04:08,904 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.4213607907295227, id: 440653167998009510)']"]
+2023-04-09 00:04:08,907 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:04:08,909 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:23:00,861 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:23:00,861 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:23:04,736 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:23:04,745 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:23:04,756 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:23:29,881 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.6301518678665161, id: 440653167998011078)']"]
+2023-04-09 00:23:29,884 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:23:29,886 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:28:15,296 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:28:15,296 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:28:19,185 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:28:19,194 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:28:19,204 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:28:35,921 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.6235227584838867, id: 440653167998010919)']"]
+2023-04-09 00:28:35,923 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:28:35,925 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:30:47,398 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:30:47,398 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:30:51,327 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:30:51,336 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:30:51,346 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:31:02,305 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5906139612197876, id: 440653167998009663)']"]
+2023-04-09 00:31:02,307 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:31:02,308 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:31:33,273 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5906139612197876, id: 440653167998011078)', '(distance: 0.5906139612197876, id: 440653167998009510)', '(distance: 0.5906139612197876, id: 440653167998010301)', '(distance: 0.5906139612197876, id: 440653167998010148)', '(distance: 0.5906139612197876, id: 440653167998009842)', '(distance: 0.5906139612197876, id: 440653167998009995)', '(distance: 0.5906139612197876, id: 440653167998009663)', '(distance: 0.5906139612197876, id: 440653167998010760)', '(distance: 0.5906139612197876, id: 440653167998010607)', '(distance: 0.5906139612197876, id: 440653167998010454)']"]
+2023-04-09 00:31:33,273 ｜ ERROR ｜ search.py ｜ do_search ｜ 20 ｜  Error with search : name 'vids' is not defined
+2023-04-09 00:32:48,769 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:32:48,769 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:32:52,473 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:32:52,482 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:32:52,491 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:33:07,311 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5906139612197876, id: 440653167998011078)', '(distance: 0.5906139612197876, id: 440653167998009842)', '(distance: 0.5906139612197876, id: 440653167998009995)', '(distance: 0.5906139612197876, id: 440653167998009663)', '(distance: 0.5906139612197876, id: 440653167998010919)', '(distance: 0.5906139612197876, id: 440653167998009510)', '(distance: 0.5906139612197876, id: 440653167998010301)', '(distance: 0.5906139612197876, id: 440653167998010148)', '(distance: 0.5906139612197876, id: 440653167998010760)', '(distance: 0.5906139612197876, id: 440653167998010607)']"]
+2023-04-09 00:33:07,317 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:33:07,318 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 00:33:27,074 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5906139612197876, id: 440653167998011078)']"]
+2023-04-09 00:33:27,076 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:33:27,077 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:34:28,383 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:34:28,383 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:34:32,794 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:34:32,803 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:34:32,814 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:34:39,992 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5906139612197876, id: 440653167998009510)']"]
+2023-04-09 00:34:39,994 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:34:39,995 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:36:11,345 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:36:11,345 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:36:15,239 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:36:15,248 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:36:15,258 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:36:30,109 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5906139612197876, id: 440653167998011078)']"]
+2023-04-09 00:36:30,110 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:36:30,111 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:41:32,141 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:41:32,141 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:41:36,017 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:41:36,026 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:41:36,036 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:41:44,230 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5906139612197876, id: 440653167998010607)']"]
+2023-04-09 00:41:44,232 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:41:44,233 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:44:38,375 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:44:38,375 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:44:42,243 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:44:42,252 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:44:42,263 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:44:58,597 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 1.000000238418579, id: 440653167998011078)']"]
+2023-04-09 00:44:58,602 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:44:58,605 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:46:38,799 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:46:38,799 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:46:42,584 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:46:42,592 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:46:42,602 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:46:52,221 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 1.000000238418579, id: 440653167998010760)']"]
+2023-04-09 00:46:52,224 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:46:52,225 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:46:52,225 ｜ ERROR ｜ main.py ｜ do_get_answer_api ｜ 74 ｜ not enough values to unpack (expected 2, got 0)
+2023-04-09 00:49:56,333 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:49:56,334 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:50:00,864 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:50:00,873 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:50:00,884 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:50:09,045 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 1.000000238418579, id: 440653167998010919)']"]
+2023-04-09 00:50:09,048 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:50:09,050 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:50:56,301 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:50:56,301 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:51:00,293 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:51:00,301 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:51:00,324 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:51:07,638 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 1.000000238418579, id: 440653167998011078)']"]
+2023-04-09 00:51:07,643 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:51:07,646 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:52:46,598 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:52:46,598 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:52:50,534 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:52:50,541 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:52:50,565 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:53:00,802 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 1.000000238418579, id: 440653167998009510)']"]
+2023-04-09 00:53:00,807 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:53:00,807 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : list index out of range
+2023-04-09 00:58:38,189 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:58:38,189 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:58:42,130 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 00:58:42,139 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 00:58:42,149 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 00:59:01,038 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 1.000000238418579, id: 440653167998011078)']"]
+2023-04-09 00:59:01,041 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:59:01,042 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:59:22,546 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9503459334373474, id: 440653167998010760)']"]
+2023-04-09 00:59:22,549 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 00:59:22,551 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 00:59:58,563 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 00:59:58,564 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:00:02,386 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:00:02,395 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:00:02,405 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:00:10,869 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9503459334373474, id: 440653167998010454)']"]
+2023-04-09 01:00:10,873 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:00:10,873 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : can only concatenate str (not "list") to str
+2023-04-09 01:01:44,864 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:01:44,864 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:01:48,613 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:01:48,621 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:01:48,631 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:01:55,760 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9503459334373474, id: 440653167998010607)']"]
+2023-04-09 01:01:55,762 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:01:55,763 ｜ ERROR ｜ mysql_helpers.py ｜ search_by_question ｜ 79 ｜ MYSQL ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '形考任务重复']'' at line 1") with sql: select answer from milvus_qa where question = '['形考任务重复']';
+2023-04-09 01:03:46,029 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:03:46,029 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:03:49,934 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:03:49,943 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:03:49,953 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:03:59,999 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9503459334373474, id: 440653167998010760)']"]
+2023-04-09 01:04:00,004 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:04:00,005 ｜ ERROR ｜ mysql_helpers.py ｜ search_by_question ｜ 79 ｜ MYSQL ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '为什么要进行入学水平测试?', '课程综合成绩不合格，重新参' at line 1") with sql: select answer from milvus_qa where question = '['为什么要进行入学水平测试?', '课程综合成绩不合格，重新参加下一轮课程终结性考核，形成性考核是否也要重新考核？', '一门课程的补考，有次数限制吗？如何交费？', '考试不通过，下次还能考吗？', '学历信息被学校弄错了怎么办', '毕业证下发周期多长？', '毕业审核流程', '老师如何查看毕业审核进度；', '学生毕业或学位审核不成功，老师如何查看原因。', '学生信息修改、学生学籍异动，学院或分部看不到学生待审核数据；', '老师如何导出学生成绩', '老师如何为学生查询学位外语成绩', '学生如何信息修改', '给课程安排了辅导老师，但老师在教学平台看不到课程', '老师无法给学生进行课程注册', '想要给学生做退课申请，但是为什么不能申请', '选课时间截止了，怎么处理？', '课程如果进行导入', '老师如何删除未确认的选课数据；', '整班注册，找不到班级', '老师登录提示“用户不存在”', '登录提示“验证失败 用户或密码无效！！”', '老师登录系统提示账号未通过审核', '初次登录系统提示身份证或者手机号重复', '无法注册教师账号，可能是因为他已经是非学历教育的学生', '登录学习网提示账号或密码无效', '学生成绩未更新，未合成，成绩错误', '已经评阅，但成绩为0', '作业截止时间到期后，学生未提交作业怎么处理', '误提交测试', '作业显示未配分无法答题', '班主任或辅导老师看不到学生', '教师登录系统后看不到学生', '课程资源建设中', '提示找不到资源', '老师看不到课程', '在平台里看不到课程', '成绩未更新，未合成，成绩错误', '全部课程听完，进度条不显示100%，是否影响成绩', '学习进度条不更新', '形考任务重复', '“一网”一使用操作指南和培训材料', '为什么解答题没有成绩', '学生是否可以异地考试', '准考证下载不下来', '纸考的成绩在哪查询', '思政课截止时间', 'app点击进入课程显示资源失败', '有的课程限制作业提交次数，已经提交一次，但是交错了怎么处理？', '提交后未评分', '思政类课程闯关式学习视频看完未解锁，无法看下一个视频', '我的学习网址打开看不了呢', '登录后提示账号未审核，联系管理员', '打开课程资源后出现错误？', '手机APP打开显示异常？', '手机无法登录？', '上传的材料怎么删除？', '身份证正反面上传的是复印件可以吗？', '批量导入证照资料提示上传成功，为什么没有显示上传的数据？', '无法采集照片是什么原因？', '账号被锁定怎么办？', '提示验证失败，用户不存在怎么办？', '学生能否在课程页面查看学习进度？', '教学平台统计中学生的视频学习热点分布，是否可以下载？', '是否有批阅截止时间？']';
+2023-04-09 01:04:58,958 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:04:58,958 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:05:02,805 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:05:02,814 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:05:02,835 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:05:10,959 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9503459334373474, id: 440653167998009663)']"]
+2023-04-09 01:05:10,962 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:05:10,965 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:07:00,064 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:07:00,064 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:07:04,316 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:07:04,327 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:07:04,355 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:07:11,479 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9503459334373474, id: 440653167998010760)']"]
+2023-04-09 01:07:11,482 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:07:11,483 ｜ ERROR ｜ mysql_helpers.py ｜ search_by_question ｜ 79 ｜ MYSQL ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '形考任务重复']'' at line 1") with sql: select answer from milvus_qa where question = '['形考任务重复']';
+2023-04-09 01:09:48,504 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:09:48,504 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:09:52,251 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:09:52,260 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:09:52,270 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:10:03,391 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9503459334373474, id: 440653167998010454)']"]
+2023-04-09 01:10:03,394 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:10:03,396 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:11:05,238 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:11:05,238 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:11:09,487 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:11:09,496 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:11:09,506 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:11:17,013 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9503459334373474, id: 440653167998010607)']"]
+2023-04-09 01:11:17,016 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:11:17,017 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:14:54,131 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9431616067886353, id: 440653167998011078)']"]
+2023-04-09 01:14:54,132 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:14:54,134 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:15:05,970 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7901424765586853, id: 440653167998010454)']"]
+2023-04-09 01:15:05,972 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:15:05,973 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:15:35,691 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5914984941482544, id: 440653167998009519)']"]
+2023-04-09 01:15:35,696 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:15:35,696 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : list index out of range
+2023-04-09 01:15:58,449 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.420343279838562, id: 440653167998009476)']"]
+2023-04-09 01:15:58,451 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:15:58,451 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : list index out of range
+2023-04-09 01:16:58,339 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.420343279838562, id: 440653167998010885)', '(distance: 0.420343279838562, id: 440653167998011044)', '(distance: 0.420343279838562, id: 440653167998010420)', '(distance: 0.420343279838562, id: 440653167998009808)', '(distance: 0.420343279838562, id: 440653167998009629)', '(distance: 0.420343279838562, id: 440653167998009961)', '(distance: 0.420343279838562, id: 440653167998010114)', '(distance: 0.420343279838562, id: 440653167998010573)', '(distance: 0.420343279838562, id: 440653167998010726)', '(distance: 0.420343279838562, id: 440653167998010267)']"]
+2023-04-09 01:16:58,342 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:16:58,342 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:19:38,583 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7826360464096069, id: 440653167998011044)']"]
+2023-04-09 01:19:38,585 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:19:38,586 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:20:42,573 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:20:42,573 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:20:46,387 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:20:46,396 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:20:46,406 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:20:57,236 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7826360464096069, id: 440653167998011044)']"]
+2023-04-09 01:20:57,239 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:20:57,240 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:22:45,390 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:22:45,390 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:22:49,102 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:22:49,111 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:22:49,138 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:22:57,447 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7826360464096069, id: 440653167998011044)']"]
+2023-04-09 01:22:57,449 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:22:57,450 ｜ ERROR ｜ mysql_helpers.py ｜ search_by_question ｜ 79 ｜ MYSQL ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '毕业审核流程']'' at line 1") with sql: select answer from milvus_qa where question = '['毕业审核流程']';
+2023-04-09 01:23:45,684 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:23:45,684 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:23:49,413 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:23:49,422 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:23:49,432 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:23:57,168 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7826360464096069, id: 440653167998010573)']"]
+2023-04-09 01:23:57,170 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:23:57,171 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:25:04,492 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:25:04,492 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 01:25:08,271 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 01:25:08,280 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 01:25:08,290 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 01:25:15,628 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7826360464096069, id: 440653167998010885)']"]
+2023-04-09 01:25:15,631 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:25:15,632 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:26:35,054 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.33473122119903564, id: 440653167998010885)', '(distance: 0.33473122119903564, id: 440653167998011044)', '(distance: 0.33473122119903564, id: 440653167998010420)', '(distance: 0.33473122119903564, id: 440653167998010267)', '(distance: 0.33473122119903564, id: 440653167998009476)', '(distance: 0.33473122119903564, id: 440653167998010573)', '(distance: 0.33473122119903564, id: 440653167998009629)', '(distance: 0.33473122119903564, id: 440653167998009961)', '(distance: 0.33473122119903564, id: 440653167998009808)', '(distance: 0.33473122119903564, id: 440653167998010114)']"]
+2023-04-09 01:26:35,057 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:26:35,058 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:26:44,017 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.37802988290786743, id: 440653167998010420)', '(distance: 0.37802988290786743, id: 440653167998010885)', '(distance: 0.37802988290786743, id: 440653167998009629)', '(distance: 0.37802988290786743, id: 440653167998010114)', '(distance: 0.37802988290786743, id: 440653167998009808)', '(distance: 0.37802988290786743, id: 440653167998009961)', '(distance: 0.37802988290786743, id: 440653167998009476)', '(distance: 0.37802988290786743, id: 440653167998010267)', '(distance: 0.37802988290786743, id: 440653167998010573)', '(distance: 0.37802988290786743, id: 440653167998011044)']"]
+2023-04-09 01:26:44,020 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:26:44,020 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:26:55,784 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5338045358657837, id: 440653167998010919)', '(distance: 0.5338045358657837, id: 440653167998009510)', '(distance: 0.5338045358657837, id: 440653167998010148)', '(distance: 0.5338045358657837, id: 440653167998010301)', '(distance: 0.5338045358657837, id: 440653167998010607)', '(distance: 0.5338045358657837, id: 440653167998011078)', '(distance: 0.5338045358657837, id: 440653167998010454)', '(distance: 0.5338045358657837, id: 440653167998009995)', '(distance: 0.5338045358657837, id: 440653167998009842)', '(distance: 0.5338045358657837, id: 440653167998009663)']"]
+2023-04-09 01:26:55,787 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:26:55,787 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:27:05,299 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5731393694877625, id: 440653167998009672)', '(distance: 0.5731393694877625, id: 440653167998009851)', '(distance: 0.5731393694877625, id: 440653167998010310)', '(distance: 0.5731393694877625, id: 440653167998010004)', '(distance: 0.5731393694877625, id: 440653167998009519)', '(distance: 0.5731393694877625, id: 440653167998010157)', '(distance: 0.5731393694877625, id: 440653167998010616)', '(distance: 0.5731393694877625, id: 440653167998010463)', '(distance: 0.5731393694877625, id: 440653167998011087)', '(distance: 0.5731393694877625, id: 440653167998010769)']"]
+2023-04-09 01:27:05,302 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:27:05,303 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:27:29,674 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8917345404624939, id: 440653167998010928)']"]
+2023-04-09 01:27:29,676 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:27:29,678 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:27:40,595 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8088366389274597, id: 440653167998009519)']"]
+2023-04-09 01:27:40,597 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:27:40,597 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : list index out of range
+2023-04-09 01:30:21,577 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8088366389274597, id: 440653167998009519)']"]
+2023-04-09 01:30:21,579 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:30:21,579 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : list index out of range
+2023-04-09 01:30:40,831 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.4020034074783325, id: 440653167998010463)', '(distance: 0.4020034074783325, id: 440653167998010157)', '(distance: 0.4020034074783325, id: 440653167998010928)', '(distance: 0.4020034074783325, id: 440653167998009519)', '(distance: 0.4020034074783325, id: 440653167998010004)', '(distance: 0.4020034074783325, id: 440653167998010310)', '(distance: 0.4020034074783325, id: 440653167998009851)', '(distance: 0.4020034074783325, id: 440653167998009672)', '(distance: 0.4020034074783325, id: 440653167998010616)', '(distance: 0.4020034074783325, id: 440653167998011087)']"]
+2023-04-09 01:30:40,834 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:30:40,835 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:30:47,411 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.35687047243118286, id: 440653167998010454)', '(distance: 0.35687047243118286, id: 440653167998011078)', '(distance: 0.35687047243118286, id: 440653167998010760)', '(distance: 0.35687047243118286, id: 440653167998009510)', '(distance: 0.35687047243118286, id: 440653167998010301)', '(distance: 0.35687047243118286, id: 440653167998010148)', '(distance: 0.35687047243118286, id: 440653167998009663)', '(distance: 0.35687047243118286, id: 440653167998009842)', '(distance: 0.35687047243118286, id: 440653167998009995)', '(distance: 0.35687047243118286, id: 440653167998010607)']"]
+2023-04-09 01:30:47,414 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:30:47,414 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:31:00,340 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8381743431091309, id: 440653167998010454)']"]
+2023-04-09 01:31:00,342 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:31:00,343 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:31:12,001 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.6933344602584839, id: 440653167998010157)', '(distance: 0.6933344602584839, id: 440653167998010463)', '(distance: 0.6933344602584839, id: 440653167998011087)', '(distance: 0.6933344602584839, id: 440653167998010928)', '(distance: 0.6933344602584839, id: 440653167998010769)', '(distance: 0.6933344602584839, id: 440653167998009672)', '(distance: 0.6933344602584839, id: 440653167998009851)', '(distance: 0.6933344602584839, id: 440653167998009519)', '(distance: 0.6933344602584839, id: 440653167998010310)', '(distance: 0.6933344602584839, id: 440653167998010004)']"]
+2023-04-09 01:31:12,004 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:31:12,005 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:31:28,852 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9999997615814209, id: 440653167998011087)']"]
+2023-04-09 01:31:28,854 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:31:28,855 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:31:36,548 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8917345404624939, id: 440653167998010928)']"]
+2023-04-09 01:31:36,551 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:31:36,553 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:31:42,139 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7604055404663086, id: 440653167998010463)']"]
+2023-04-09 01:31:42,141 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:31:42,143 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:32:06,524 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8088366389274597, id: 440653167998010616)']"]
+2023-04-09 01:32:06,526 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:32:06,527 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:32:22,250 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5235326886177063, id: 440653167998011078)', '(distance: 0.5235326886177063, id: 440653167998010919)', '(distance: 0.5235326886177063, id: 440653167998009663)', '(distance: 0.5235326886177063, id: 440653167998009842)', '(distance: 0.5235326886177063, id: 440653167998009995)', '(distance: 0.5235326886177063, id: 440653167998010607)', '(distance: 0.5235326886177063, id: 440653167998010760)', '(distance: 0.5235326886177063, id: 440653167998010301)', '(distance: 0.5235326886177063, id: 440653167998009510)', '(distance: 0.5235326886177063, id: 440653167998010148)']"]
+2023-04-09 01:32:22,253 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:32:22,253 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:32:33,793 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5961615443229675, id: 440653167998010607)', '(distance: 0.5961615443229675, id: 440653167998010148)', '(distance: 0.5961615443229675, id: 440653167998009510)', '(distance: 0.5961615443229675, id: 440653167998010301)', '(distance: 0.5961615443229675, id: 440653167998011078)', '(distance: 0.5961615443229675, id: 440653167998010760)', '(distance: 0.5961615443229675, id: 440653167998010454)', '(distance: 0.5961615443229675, id: 440653167998010919)', '(distance: 0.5961615443229675, id: 440653167998009663)', '(distance: 0.5961615443229675, id: 440653167998009995)']"]
+2023-04-09 01:32:33,797 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:32:33,797 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:32:40,631 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.44169020652770996, id: 440653167998010919)', '(distance: 0.44169020652770996, id: 440653167998011078)', '(distance: 0.44169020652770996, id: 440653167998010760)', '(distance: 0.44169020652770996, id: 440653167998009510)', '(distance: 0.44169020652770996, id: 440653167998010148)', '(distance: 0.44169020652770996, id: 440653167998010301)', '(distance: 0.44169020652770996, id: 440653167998009995)', '(distance: 0.44169020652770996, id: 440653167998009663)', '(distance: 0.44169020652770996, id: 440653167998009842)', '(distance: 0.44169020652770996, id: 440653167998010607)']"]
+2023-04-09 01:32:40,634 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:32:40,635 ｜ INFO ｜ main.py ｜ do_get_question_api ｜ 61 ｜ Successfully searched similar images!
+2023-04-09 01:35:14,331 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.5374826788902283, id: 440653167998010375)']"]
+2023-04-09 01:35:14,333 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:35:14,335 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:37:25,121 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9902698993682861, id: 440653167998010900)']"]
+2023-04-09 01:37:25,124 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:37:25,125 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 01:37:38,060 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8191677927970886, id: 440653167998010684)']"]
+2023-04-09 01:37:38,062 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 01:37:38,063 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 11:54:33,179 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 41 ｜ Load pretrained SentenceTransformer: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 11:54:33,180 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 107 ｜ Load SentenceTransformer from folder: models/paraphrase-multilingual-mpnet-base-v2
+2023-04-09 11:54:37,226 ｜ INFO ｜ SentenceTransformer.py ｜ __init__ ｜ 131 ｜ Use pytorch device: cpu
+2023-04-09 11:54:37,235 ｜ DEBUG ｜ milvus_helpers.py ｜ __init__ ｜ 15 ｜ Successfully connect to Milvus with IP:('127.0.0.1',) and PORT:19530
+2023-04-09 11:54:37,245 ｜ DEBUG ｜ selector_events.py ｜ __init__ ｜ 54 ｜ Using selector: EpollSelector
+2023-04-09 11:56:28,287 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_begin with no data
+2023-04-09 11:56:28,288 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[60:79]
+2023-04-09 11:56:28,288 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[81:126]
+2023-04-09 11:56:28,288 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-09 11:56:28,288 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_field with data[128:140]
+2023-04-09 11:56:28,289 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_header_value with data[142:150]
+2023-04-09 11:56:28,289 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_header_end with no data
+2023-04-09 11:56:28,289 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_headers_finished with no data
+2023-04-09 11:56:28,289 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[154:21777]
+2023-04-09 11:56:28,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 583 ｜ Calling on_part_data with data[0:2]
+2023-04-09 11:56:28,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_part_end with no data
+2023-04-09 11:56:28,290 ｜ DEBUG ｜ multipart.py ｜ callback ｜ 586 ｜ Calling on_end with no data
+2023-04-09 11:56:29,904 ｜ DEBUG ｜ milvus_helpers.py ｜ insert ｜ 63 ｜ Insert vectors to Milvus in collection: milvus_qa with 137 rows
+2023-04-09 11:56:32,965 ｜ DEBUG ｜ milvus_helpers.py ｜ create_index ｜ 76 ｜ Successfully create index in collection:milvus_qa with param:{'index_type': 'IVF_SQ8', 'metric_type': 'IP', 'params': {'nlist': 16384}}
+2023-04-09 11:56:32,967 ｜ DEBUG ｜ mysql_helpers.py ｜ create_mysql_table ｜ 35 ｜ MYSQL create table: milvus_qa with sql: create table if not exists milvus_qa (milvus_id TEXT, question TEXT, answer TEXT)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+2023-04-09 11:56:32,995 ｜ DEBUG ｜ mysql_helpers.py ｜ load_data_to_mysql ｜ 48 ｜ MYSQL loads data to table: milvus_qa successfully
+2023-04-09 11:56:32,998 ｜ INFO ｜ main.py ｜ do_load_api ｜ 48 ｜ Successfully loaded data, total count: 137
+2023-04-09 14:11:26,876 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7554326057434082, id: 440653167998010538)']"]
+2023-04-09 14:11:26,879 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:11:26,881 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 14:12:47,794 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.6684842109680176, id: 440653167998010600)']"]
+2023-04-09 14:12:47,797 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:12:47,799 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 14:21:29,315 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9035999774932861, id: 440653167998009656)']"]
+2023-04-09 14:21:29,318 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:21:29,318 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : list index out of range
+2023-04-09 14:21:42,604 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9035999774932861, id: 440667364344725599)']"]
+2023-04-09 14:21:42,606 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:21:42,607 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 14:27:11,209 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9911026954650879, id: 440667364344725611)']"]
+2023-04-09 14:27:11,211 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:27:11,213 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 14:29:00,493 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9911026954650879, id: 440653167998009515)']"]
+2023-04-09 14:29:00,495 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:29:00,495 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : list index out of range
+2023-04-09 14:29:04,153 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9911026954650879, id: 440653167998010765)']"]
+2023-04-09 14:29:04,155 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:29:04,157 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 14:34:55,531 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.8362505435943604, id: 440653167998010960)']"]
+2023-04-09 14:34:55,533 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:34:55,535 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 14:38:49,699 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7238196134567261, id: 440653167998009689)']"]
+2023-04-09 14:38:49,701 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:38:49,701 ｜ ERROR ｜ search.py ｜ do_get_answer ｜ 35 ｜  Error with search by question : list index out of range
+2023-04-09 14:38:53,590 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.7238196134567261, id: 440653167998010786)']"]
+2023-04-09 14:38:53,592 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:38:53,594 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 14:49:06,191 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.798566460609436, id: 440653167998010464)']"]
+2023-04-09 14:49:06,193 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:49:06,195 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
+2023-04-09 14:52:13,418 ｜ DEBUG ｜ milvus_helpers.py ｜ search_vectors ｜ 103 ｜ Successfully search in collection: ["['(distance: 0.9100057482719421, id: 440653167998010666)']"]
+2023-04-09 14:52:13,420 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_milvus_ids ｜ 62 ｜ MYSQL search by milvus id.
+2023-04-09 14:52:13,421 ｜ DEBUG ｜ mysql_helpers.py ｜ search_by_question ｜ 73 ｜ MYSQL search by question.
