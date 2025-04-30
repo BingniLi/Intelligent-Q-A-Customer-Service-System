@@ -1,0 +1,64 @@
+/* Reset default browser styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Main container */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Chat bubble styles */
+  .bubble {
+    display: inline-block;
+    max-width: 70%;
+    margin-bottom: 10px;
+    padding: 10px 15px;
+    border-radius: 20px;
+  }
+  
+  /* User bubble */
+  .user-bubble {
+    background-color: #DCF8C6;
+    color: #333;
+    float: right;
+  }
+  
+  /* Bot bubble */
+  .bot-bubble {
+    background-color: #E6E6E6;
+    color: #333;
+    float: left;
+    position: relative;
+    top: +50px;
+  }
+  
+  /* Chat input */
+  .chat-input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-top: 1px solid #ccc;
+    outline: none;
+  }
+  
+  /* Send button */
+  .send-button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  .send-button:hover {
+    background-color: #45a049;
+  }
+  
+  

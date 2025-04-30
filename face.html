@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <title>智能问答系统</title>
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .chat-input {
+    width: 98%;
+    padding: 10px;
+    border: none;
+    border-top: 1px solid #ccc;
+    outline: none;
+    resize: vertical;
+    white-space: pre-wrap;
+  }
+  
+  .send-button {
+    background-color: #0cc7f1;
+    color: #ffffff;
+    border-radius: 10px; 
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  .send-button:hover {
+    background-color: #80d3f0;
+  }
+  .chat-container {
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    overflow: hidden;
+    
+  }
+  .chat-header {
+    padding: 10px;
+    background-color: #80d3f0;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+  }
+  .chat-messages {
+    padding: 10px;
+    overflow-y: scroll;
+    height: 450px;
+  }
+  .message {
+    margin-bottom: 10px;
+    overflow-wrap: break-word;
+  }
+  .user-message {
+    text-align: right;
+  }
+  .bot-message {
+    text-align: left;
+  }
+  .message-text {
+    max-width: 400px;
+    
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: left;
+  }
+  .user-message .message-text {
+    background-color: #dff0d8;
+  }
+
+</style>
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">智能问答系统</div>
+    <div class="chat-messages" id="chatMessages"></div>
+    <div class="chat-input-container">
+      <textarea type="text" id="questionInput" class="chat-input" placeholder="请输入问题"></textarea>
+      <button onclick="askQuestion()" class="send-button">发送</button>
+    </div>
+  </div>
+
+  <script>
+    function askQuestion() {
+      var questionInput = document.getElementById("questionInput");
+      var question = questionInput.value.trim();
+      if (question !== "") {
+        var chatMessages = document.getElementById("chatMessages");
+
+        // 创建一个新的问题显示块
+        var questionBlock = document.createElement("div");
+        questionBlock.classList.add("message", "user-message");
+        var questionText = document.createElement("div");
+        questionText.classList.add("message-text");
+        questionText.textContent = question;
+        questionBlock.appendChild(questionText);
+
+        // 发送问题给后端获取答案
+        sendAnswer(question, function(response) {
+          var answerBlock = document.createElement("div");
+          answerBlock.classList.add("message", "bot-message");
+          var answerText = document.createElement("div");
+          answerText.classList.add("message-text");
+
+          if (response.status) {
+            answerText.textContent = "您好！已为您找到以下答案：" + response.answer;
+          } else {
+            answerText.textContent = "获取答案失败";
+          }
+
+          answerBlock.appendChild(answerText);
+
+          // 将问题和答案添加到页面
+          chatMessages.appendChild(questionBlock);
+          chatMessages.appendChild(answerBlock);
+
+          // 滚动到底部
+          chatMessages.scrollTop = chatMessages.scrollHeight;
+        });
+
+        // 发送问题给后端搜索接口
+        sendQuestion(question, function(response) {
+          var searchBlock = document.createElement("div");
+          searchBlock.classList.add("message", "bot-message");
+          var searchText = document.createElement("div");
+          searchText.classList.add("message-text");
+     
+          searchText.textContent = "猜您可能还想问：1." + response[0] +"，2."+ response[1]+"，3."+ response[2]+"\n"+"...您也可以尝试重新输入问题，进行查询";
+  
+
+          searchBlock.appendChild(searchText);
+
+          // 将搜索结果添加到页面
+          chatMessages.appendChild(searchBlock);
+
+          // 滚动到底部
+          chatMessages.scrollTop = chatMessages.scrollHeight;
+        });
+
+        // 清空输入框
+        questionInput.value = "";
+      }
+    }
+
+    function sendAnswer(question, callback) {
+      // 使用Ajax或其他方式将问题发送给后端获取答案
+      // 在此示例中，假设使用jQuery的Ajax方法发送GET请求
+      $.ajax({
+        url: "http://localhost:4000/qa/get_answer",
+        data: { question: question },
+        type: "GET",
+        success: function(response) {
+          callback(response);
+        },
+        error: function() {
+          callback({ status: false });
+        }
+      });
+    }
+
+    function sendQuestion(question, callback) {
+      // 使用Ajax或其他方式将问题发送给后端搜索接口
+      // 在此示例中，假设使用jQuery的Ajax方法发送GET请求
+      $.ajax({
+        url: "http://localhost:4000/qa/search",
+        data: { question: question },
+        type: "GET",
+        success: function(response) {
+          callback(response);
+        },
+        error: function() {
+          callback({ status: false });
+        }
+      });
+    }
+
+  </script>
+</body>
+</html>
